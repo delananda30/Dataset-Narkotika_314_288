@@ -10,14 +10,14 @@
 
 Repository ini berisi dataset 50 putusan pengadilan yang diunduh melalui web scraping dari situs Direktori Putusan Mahkamah Agung RI [PN DEPOK](https://putusan3.mahkamahagung.go.id/search.html?q=&court=477292PN34++++++++++++++++++++++&t_reg=&t_upl=&t_pr=&jenis_doc=putusan&jd=AMAR_LAINNYA&tp=0&cat=3c40e48bbab311301a21c445b3c7fe57). Fokusnya adalah pada kasus yang tergolong dalam PIDANA KHUSUS dengan klasifikasi NARKOTIKA DAN PSIKOTROPIKA. Dataset ini diorganisir dan disimpan dalam folder ZIP bernama `Narkotika.zip`, dan file ringkasan bernama `Overview.xlsx`.
 
-### **Dataset**
+## **Dataset**
 
 Folder `Dataset` berisi data utama, di mana setiap putusan pengadilan disimpan sebagai file PDF terpisah dalam folder ZIP `Narkotika.zip`.
 
 - Dataset
   - [Narkotika.zip](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/tree/main/Dataset) 
 
-### **Overview**
+## **Overview**
 
 Folder `Overview` berisi file ringkasan bernama `Overview.xlsx`, memberikan informasi yang berisi no putusan, lembaga peradilan, barang bukti, dan amar putusan pengadilan.
 
