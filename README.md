@@ -48,4 +48,3 @@ Struktur direktori di repositori GitHub diorganisir sebagai berikut:
 - Dela Ananda Setyarini (202010370311314)
 - Agnes Ayu Maharani Dyah Gayatri (202010370311288)
 
-Silakan jelajahi dataset ini dan gunakan untuk tujuan penelitian atau analisis. Jika ada pertanyaan atau perlu klarifikasi lebih lanjut, jangan ragu untuk menghubungi kontributor repositori.
