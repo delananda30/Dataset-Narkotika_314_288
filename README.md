@@ -47,3 +47,4 @@ Struktur direktori di repositori GitHub diorganisir sebagai berikut:
 - [Dela Ananda Setyarini](https://github.com/Agnesayu12) (202010370311314)
 - [Agnes Ayu Maharani Dyah Gayatri](https://github.com/Agnesayu12) (202010370311288)
 
+[![GitHub Logo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/delananda30/Dataset-Narkotika_314_288)
