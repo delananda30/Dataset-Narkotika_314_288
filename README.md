@@ -32,10 +32,6 @@ Struktur direktori di repositori GitHub diorganisir sebagai berikut:
 
 - [Dataset](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/tree/main/Dataset)
   - [Narkotika.zip](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/tree/main/Dataset)
-    - [putusan_41_pid.sus_2023_pn_dpk_20231112121505.pdf](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/tree/main/Dataset)
-    - [putusan_48_pid.sus_2023_pn_dpk_20231112121434.pdf](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/tree/main/Dataset)
-    - ...
-    - [putusan_455_pid.sus_2021_pn_dpk_20231112121729.pdf](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/tree/main/Dataset)
 - [Overview](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/tree/main/Overview)
   - [Overview.xlsx](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/blob/main/Overview/Overview.xlsx)
 - [README.md](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/blob/main/README.md)
