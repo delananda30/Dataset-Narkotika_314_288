@@ -19,24 +19,24 @@ Folder `Dataset` berisi data utama, di mana setiap putusan pengadilan disimpan s
 
 ## **Overview**
 
-Folder `Overview` berisi file ringkasan bernama `Overview.xlsx`, memberikan informasi rinci tentang setiap putusan pengadilan. File Excel ini terstruktur dengan kolom yang mewakili atribut berbeda dari putusan. Struktur file Excel serupa dengan yang ditemukan [di sini](https://docs.google.com/spreadsheets/d/14AQIJ2DX3Ix_kxvXn4OSjwiSNWID4Fa3CARoE8E7ces/edit?usp=sharing).
+Folder `Overview` berisi file ringkasan bernama `Overview.xlsx`, memberikan informasi yang berisi no putusan, lembaga peradilan, barang bukti, dan amar putusan pengadilan.
 
 - Overview
-  - [Overview.xlsx](Overview/Overview.xlsx)
+  - [Overview.xlsx](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/blob/main/Overview/Overview.xlsx)
 
 ## **Struktur Direktori di Repositori GitHub**
 
 Struktur direktori di repositori GitHub diorganisir sebagai berikut:
 
-- [Dataset](Dataset)
-  - [Narkotika.zip](Dataset/Narkotika.zip)
-    - [putusan_294_pid.sus_2023_pn_dpk_20231112121449.pdf](Dataset/Narkotika.zip/putusan_294_pid.sus_2023_pn_dpk_20231112121449.pdf)
-    - [Putusan_2.pdf](Dataset/Narkotika.zip/Putusan_2.pdf)
+- [Dataset](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/tree/main/Dataset)
+  - [Narkotika.zip](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/tree/main/Dataset)
+    - [putusan_41_pid.sus_2023_pn_dpk_20231112121505.pdf](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/tree/main/Dataset)
+    - [putusan_48_pid.sus_2023_pn_dpk_20231112121434.pdf](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/tree/main/Dataset)
     - ...
-    - [Putusan_50.pdf](Dataset/Narkotika.zip/Putusan_50.pdf)
-- [Overview](Overview)
-  - [Overview.xlsx](Overview/Overview.xlsx)
-- [README.md](README.md)
+    - [putusan_455_pid.sus_2021_pn_dpk_20231112121729.pdf](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/tree/main/Dataset)
+- [Overview](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/tree/main/Overview)
+  - [Overview.xlsx](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/blob/main/Overview/Overview.xlsx)
+- [README.md](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/blob/main/README.md)
 
 ## **Konvensi Penamaan Repositori GitHub**
 
