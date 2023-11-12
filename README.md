@@ -12,10 +12,10 @@ Folder `Dataset` berisi data utama, di mana setiap putusan pengadilan disimpan s
 
 - Dataset
   - Narkotika.zip
-    - [putusan_41_pid.sus_2023_pn_dpk_20231112121505.pdf]([Dataset/Narkotika.zip/putusan_294_pid.sus_2023_pn_dpk_20231112121449.pd](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/tree/main/Dataset)f)
-    - [putusan_48_pid.sus_2023_pn_dpk_20231112121434.pdf]([Dataset/Narkotika.zip/Putusan_2.pdf](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/tree/main/Dataset))
+    - [putusan_41_pid.sus_2023_pn_dpk_20231112121505.pdf](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/tree/main/Dataset)
+    - [putusan_48_pid.sus_2023_pn_dpk_20231112121434.pdf](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/tree/main/Dataset)
     - ...
-    - [putusan_455_pid.sus_2021_pn_dpk_20231112121729.pdf]([Dataset/Narkotika.zip/Putusan_50.pdf](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/tree/main/Dataset))
+    - [putusan_455_pid.sus_2021_pn_dpk_20231112121729.pdf](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/tree/main/Dataset)
 
 ## **Overview**
 
