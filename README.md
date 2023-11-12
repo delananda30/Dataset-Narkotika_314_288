@@ -15,9 +15,10 @@ Folder `Dataset` berisi data utama, di mana setiap putusan pengadilan disimpan s
     - ...
     - [putusan_455_pid.sus_2021_pn_dpk_20231112121729.pdf](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/tree/main/Dataset)
 
-### **Ringkasan Overview**
+### **Overview**
 
 Folder `Overview` berisi file ringkasan bernama `Overview.xlsx`, memberikan informasi yang berisi no putusan, lembaga peradilan, barang bukti, dan amar putusan pengadilan.
+
 
 |        No Putusan        | Lembaga Peradilan |          Barang Bukti                 |           Amar Putusan                   |
 | :----------------------: | :----------------: | :------------------------------------: | :--------------------------------------: |
