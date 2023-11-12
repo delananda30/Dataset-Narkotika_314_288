@@ -15,15 +15,15 @@ Folder `Dataset` berisi data utama, di mana setiap putusan pengadilan disimpan s
 
 Folder `Overview` berisi file ringkasan bernama `Overview.xlsx`, memberikan informasi yang berisi no putusan, lembaga peradilan, barang bukti, dan amar putusan pengadilan.
 
+- Overview
+  - [Overview.xlsx](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/blob/main/Overview/Overview.xlsx)
+
+
 | No Putusan              | Lembaga Peradilan | Barang Bukti                          | Amar Putusan                             |
 | :----------------------: | :----------------: | :-----------------------------------: | :--------------------------------------: |
 | 303/Pid.Sus/2023/PN Dpk | PN DEPOK           | 1 (satu) buah paket J&T Express dengan kode JD0218367798 dengan identitas pengirim atas nama ASKAR,...   | MENGADILI: Menyatakan Terdakwa Ahmad Baihaki Bin Ngatimin terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana tanpa hak... |
 | ...                     | ....               | ...                                   | ...                                      |
 | 246/Pid.Sus/2022/PN Dpk | PN DEPOK           | 1 (satu) tas slempang warna biru...  | MENGADILI: Menyatakan Terdakwa Hendriko...|
-
-
-- Overview
-  - [Overview.xlsx](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/blob/main/Overview/Overview.xlsx)
 
 ## **Struktur Direktori di Repositori GitHub**
 
