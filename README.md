@@ -23,9 +23,9 @@ Folder `Overview` berisi file ringkasan bernama `Overview.xlsx`, memberikan info
 
 | No Putusan              | Lembaga Peradilan |          Barang Bukti                     | Amar Putusan                                   |
 | :---------------------- | :---------------- | :---------------------------------------- | ---------------------------------------------- |
-| 303/Pid.Sus/2023/PN Dpk | PN DEPOK          | 1 (satu) buah paket J&T Express dengan... | MENGADILI: Menyatakan Terdakwa Ahmad Baihaki...|
+| 303/Pid.Sus/2023/PN Dpk | PN DEPOK          | 1 (satu) buah paket J&T Express... | MENGADILI: Menyatakan Terdakwa Ahmad...|
 | ...                     | ....              | ...                                       | ...                                            |
-| 246/Pid.Sus/2022/PN Dpk | PN DEPOK          | 1 (satu) tas slempang warna biru dengan...| MENGADILI: Menyatakan Terdakwa Hendriko...     |
+| 246/Pid.Sus/2022/PN Dpk | PN DEPOK          | 1 (satu) tas slempang warna biru...| MENGADILI: Menyatakan Terdakwa Hendriko...     |
 
 - Overview
   - [Overview.xlsx](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/blob/main/Overview/Overview.xlsx)
