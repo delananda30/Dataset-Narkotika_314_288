@@ -45,7 +45,7 @@ Struktur direktori di repositori GitHub diorganisir sebagai berikut:
   - [Overview.xlsx](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/blob/main/Overview/Overview.xlsx)
 - [README.md](https://github.com/delananda30/Dataset-Putusan-Pidana-Khusus/blob/main/README.md)
 
-## **Used By**
-- Dela Ananda Setyarini (202010370311314)
-- Agnes Ayu Maharani Dyah Gayatri (202010370311288)
+## Authors
+- [Dela Ananda Setyarini](https://github.com/Agnesayu12) (202010370311314)
+- [Agnes Ayu Maharani Dyah Gayatri](https://github.com/Agnesayu12) (202010370311288)
 
