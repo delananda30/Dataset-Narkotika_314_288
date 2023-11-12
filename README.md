@@ -19,9 +19,9 @@ Folder `Overview` berisi file ringkasan bernama `Overview.xlsx`, memberikan info
 
 | No Putusan              | Lembaga Peradilan | Barang Bukti                          | Amar Putusan                             |
 | :----------------------: | :----------------: | :-----------------------------------: | :--------------------------------------: |
-| 303/Pid.Sus/2023/PN Dpk | PN DEPOK           | 1 (satu) buah paket J&T Express dengan kode JD0218367798 dengan identitas pengirim atas nama ASKAR,...   | MENGADILI: Menyatakan Terdakwa Ahmad Baihaki Bin Ngatimin terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana tanpa hak... |
-| 227/Pid.Sus/2023/PN Dpk              |PN DEPOK                | 1 (satu) bungkus plastik klip berisi 5 (lima) bungkus plastik klip masing-mssing berisikan Kristal warna putih dengan berat netto seluruhnya 0,2681 gram...                                | ...                                      |
-| 246/Pid.Sus/2022/PN Dpk | PN DEPOK           | 1 (satu) tas slempang warna biru...  | MENGADILI: Menyatakan Terdakwa Hendriko...|
+| 303/Pid.Sus/2023/PN Dpk | PN DEPOK           | 1 (satu) buah paket J&T Express dengan kode JD0218367798 dengan identitas pengirim atas nama ASKAR, 628969597878...   | MENGADILI: Menyatakan Terdakwa Ahmad Baihaki Bin Ngatimin terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana ?tanpa hak dan melawan hukum... |
+| 227/Pid.Sus/2023/PN Dpk              |PN DEPOK                | 1 (satu) bungkus plastik klip berisi 5 (lima) bungkus plastik klip masing-mssing berisikan Kristal warna...                                | MENGADILI: 1. Menyatakan terdakwa Abdul Hakim Alias Liong Bin (alm) H. Rojali tersebut di atas, terbukti secara sah dan meyakinkan bersalah melakukan tindak...                             |
+| 118/Pid.Sus/2023/PN Dpk | PN DEPOK           | 1 (satu) bungkus plastik klip bening berisi narkotika jenis sabu dibungkus plastik klip bening dilakban warna...  | MENGADILI :  Menyatakan Terdakwa Rudi Setiawan Als Bimbim Bin Sudirman tersebut diatas terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana...|
 
 ## **Struktur Direktori di Repositori GitHub**
 
