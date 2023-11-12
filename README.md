@@ -44,12 +44,8 @@ Repositori GitHub dinamai mengikuti konvensi:
 
 **Dataset-Narkotika_314_288**
 
-- **314**: 3 digit dari NIM terakhir anggota kelompok pertama.
-- **288**: 3 digit dari NIM terakhir anggota kelompok kedua.
-
-Contoh:
-
-**Dataset-Narkotika_314_288**
+- **314**: Dela Ananda Setyarini.
+- **288**: Agnes Ayu Maharani Dyah Gayatri.
 
 ## **Catatan**
 
