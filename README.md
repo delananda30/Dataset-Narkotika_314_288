@@ -8,14 +8,14 @@ Repository ini berisi dataset 50 putusan pengadilan yang diunduh melalui web scr
 
 Folder `Dataset` berisi data utama, di mana setiap putusan pengadilan disimpan sebagai file PDF terpisah dalam folder ZIP `Narkotika.zip`. Konvensi penamaan untuk file PDF adalah sebagai berikut:
 
-- putusan_294_pid.sus_2023_pn_dpk_20231112121449.pdf
+- putusan_41_pid.sus_2023_pn_dpk_20231112121505.pdf
 
 - Dataset
   - Narkotika.zip
-    - [putusan_294_pid.sus_2023_pn_dpk_20231112121449.pdf](Dataset/Narkotika.zip/putusan_294_pid.sus_2023_pn_dpk_20231112121449.pdf)
-    - [Putusan_2.pdf](Dataset/Narkotika.zip/Putusan_2.pdf)
+    - [putusan_41_pid.sus_2023_pn_dpk_20231112121505.pdf](Dataset/Narkotika.zip/putusan_294_pid.sus_2023_pn_dpk_20231112121449.pdf)
+    - [putusan_48_pid.sus_2023_pn_dpk_20231112121434.pdf](Dataset/Narkotika.zip/Putusan_2.pdf)
     - ...
-    - [Putusan_50.pdf](Dataset/Narkotika.zip/Putusan_50.pdf)
+    - [putusan_455_pid.sus_2021_pn_dpk_20231112121729.pdf](Dataset/Narkotika.zip/Putusan_50.pdf)
 
 ## **Overview**
 
