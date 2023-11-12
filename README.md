@@ -20,7 +20,7 @@ Folder `Dataset` berisi data utama, di mana setiap putusan pengadilan disimpan s
 ### **Ringkasan Overview**
 
 Folder `Overview` berisi file ringkasan bernama `Overview.xlsx`, memberikan informasi yang berisi no putusan, lembaga peradilan, barang bukti, dan amar putusan pengadilan.
-| No Putusan              | Lembaga Peradilan | Barang Bukti                              | Amar Putusan                                   |
+| No Putusan              | Lembaga Peradilan |          Barang Bukti                     | Amar Putusan                                   |
 | :---------------------- | :---------------- | :---------------------------------------- | ---------------------------------------------- |
 | 303/Pid.Sus/2023/PN Dpk | PN DEPOK          | 1 (satu) buah paket J&T Express dengan... | MENGADILI: Menyatakan Terdakwa Ahmad Baihaki...|
 
