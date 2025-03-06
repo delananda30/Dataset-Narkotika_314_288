@@ -2,11 +2,8 @@
 
 <br>
 
-<div align="center">
-  <a href="https://putusan3.mahkamahagung.go.id/beranda.html">
-    <img src="https://putusan3.mahkamahagung.go.id/public/frontend/images/logo.png" alt="Logo">
-  </a>
-</div>
+![Logo](https://putusan3.mahkamahagung.go.id/public/frontend/images/logo.png)
+
 
 
 <br>
